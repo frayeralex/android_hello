@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="user_name">Alex Boyko</string>
+    <string name="user_info">Software developer</string>
+    <string name="user_hobbies">Football, computer games, IoT</string>
+    <string name="action_settings">Settings</string>
+</resources>
